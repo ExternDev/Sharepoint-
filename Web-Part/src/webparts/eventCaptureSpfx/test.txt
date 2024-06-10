@@ -1,0 +1,8 @@
+Remove console statements - done
+Remove the if condition with hardcoded site URL
+Give relevant name to functions EG: RER  - Done
+Remove debugger - done
+Add proper comments multiline
+Make use of camelCase for variables Eg: Title, ReceiverName - done
+Dont hardcode event code. Instead use constants Eg: 10001 - Done
+Also dont hardcode https://sp-addins.azurewebsites.net/services/RemoteEventReceiver1.svc -Done
